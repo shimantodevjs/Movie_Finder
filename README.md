@@ -1,3 +1,3 @@
 # Movie_Finder
 
-Demo: movie-finder-shimantodevjs.surge.sh
+Demo: http://movie-finder-shimantodevjs.surge.sh/
